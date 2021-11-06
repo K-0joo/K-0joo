@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm University Student :D
 
 <!--
 **K-0joo/K-0joo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Love eating delicous food 🍴, cooking 🍳, play guitar 🎸, game 🎮
+I hope to develop every assist things or funny things 😁
