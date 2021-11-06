@@ -21,8 +21,9 @@ I hope to develop every assist things or funny things 😁
 <br>
 <pre>
 - 🌱 I’m currently learning
-
+<br>
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+</br>
 </pre>
 </br>
 
