@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 Love eating delicous food 🍴, cooking 🍳, play guitar 🎸, game 🎮
 
 I hope to develop every assist things or funny things 😁
+
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.id/badge/🌱 I’m currently learning.E8E8E8?style=flat-square&logo=Android&logoColor=white"/></a>
