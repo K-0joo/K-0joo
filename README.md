@@ -30,6 +30,7 @@ I hope to develop every assist things or funny things 😁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-0joo&theme=solarized-light&show_icons=true)
 
+<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=tpal6619">
 [![Solved.ac
-tpal6619](http://mazassumnida.wtf/api/generate_badge?boj=tpal6619)](https://solved.ac/tpal6619)
+tpal6619]()](https://solved.ac/tpal6619)
 
