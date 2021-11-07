@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm University Student :D
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/K-0joo)
+
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://kimeyou.tistory.com/)
+
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <!--
@@ -31,5 +35,5 @@ I hope to develop every assist things or funny things 😁
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-0joo&theme=solarized-light&show_icons=true)
 
 [![Solved.ac
-tpal6619](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+tpal6619](http://mazassumnida.wtf/api/generate_badge?boj=tpal6619)](https://solved.ac/tpal6619)
 
