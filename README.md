@@ -28,7 +28,6 @@ I hope to develop every assist things or funny things 😁
 </pre>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-0joo&theme=solarized-light&show_icons=true)      
-<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=tpal6619">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-0joo&theme=solarized-light&show_icons=true)      <img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=tpal6619">
 
 
