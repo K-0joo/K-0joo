@@ -29,3 +29,7 @@ I hope to develop every assist things or funny things 😁
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-0joo&theme=solarized-light&show_icons=true)
+
+[![Solved.ac
+tpal6619](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
