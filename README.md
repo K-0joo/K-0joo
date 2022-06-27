@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=YoungJoo%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_random&height=300&section=header&text=YoungJoo%20Kim&fontSize=90)
 
 ### Hi there 👋 I'm University Student :D
 
