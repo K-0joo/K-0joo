@@ -75,13 +75,6 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/K-0joo/K-0joo/main/charts/bar_graph.png) 
-
-
- Last Updated on 01/07/2022 03:01:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
