@@ -13,7 +13,22 @@
 <details>
 <summary> 💎 What I did </summary>
 <div markdown="1">
-
+| Date | content | link |
+|------|---------|------|
+|2018.03-2018.06| coding study | |
+|2019.08-2020.04| Study for English in the U.S.A(University of Florida)| |
+|2021.04-2021.08| Study of Searching for Dream | |
+|2021.07-2021.08| attended a special lecture series about AI | |
+|2021.08| Got an excellence award for AI idea competition | |
+|2021.09| attended a special lecture about Android | |
+|2021.10-2022.03| Android Study| |
+|2022.01| attended a special lecture about Figma | |
+|2022.01-2022.03| Solution Challenge - nougly| |
+|2022.o5-2022.07| Vue Study | |
+|2022.05-ing~| JavaScript Deep Study | |
+|2021.09-ing~| Alogorithm Study| |
+|2021.09~ing~| GDSC | |
+|now(2022.08)| prepare for the U.S.A. internship(K-MOVE) | |
 
 </div>
 </details>
