@@ -25,7 +25,7 @@
 |2021.10 - 2022.09| Volunteer Club CPU | |
 |2022.01| Attended a special lecture about Figma | |
 |2022.01 - 2022.03| Solution Challenge - nougly| |
-|2022.o5 - 2022.07| Vue Study | |
+|2022.05 - 2022.07| Vue Study | |
 |2021.09 - 2022.06 | Startup Clup Mondays member | |
 |2022.06 - ing~ | Startup Clup Mondays representative | |
 |2022.05 - ing~| JavaScript Deep Study | |
