@@ -183,8 +183,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 </br>
 
-## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=K-0joo&theme=gruvbox_duo)](https://git.io/streak-stats)
+## My Stats[![GitHub Streak](https://streak-stats.demolab.com?user=K-0joo&theme=gruvbox_duo&border=FFD552)](https://git.io/streak-stats)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-0joo&theme=flag-india&show_icons=true) -->
 <p></p>
