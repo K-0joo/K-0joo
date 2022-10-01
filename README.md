@@ -27,11 +27,12 @@
 |2022.01 - 2022.03| Solution Challenge - nougly| |
 |2022.05 - 2022.07| Vue Study | |
 |2021.09 - 2022.06 | Startup Clup Mondays member | |
+|2022.05 - 2022.09| JavaScript Deep Study | |
 |2022.06 - ing~ | Startup Clup Mondays representative | |
-|2022.05 - ing~| JavaScript Deep Study | |
+|2022.08 - ing~| prepare for the U.S.A. internship(K-MOVE) | |
 |2021.09 - ing~| Alogorithm Study| |
 |2021.09 - ing~| GDSC | |
-|now(2022.08)| prepare for the U.S.A. internship(K-MOVE) | |
+|2022.10 - ing~| AWS Study | |
 
 </div>
 </details>
