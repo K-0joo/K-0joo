@@ -21,6 +21,7 @@
 |2021.07 - 2021.08| Attended a special lecture series about AI | |
 |2021.08| Got an excellence award for AI idea competition | |
 |2021.09| Attended a special lecture about Android | |
+|2021.09 - 2022.| Alogorithm Study| |
 |2021.10 - 2022.03| Android Study| |
 |2021.10 - 2022.09| Volunteer Club CPU | |
 |2022.01| Attended a special lecture about Figma | |
@@ -28,11 +29,10 @@
 |2022.05 - 2022.07| Vue Study | |
 |2021.09 - 2022.06 | Startup Clup Mondays member | |
 |2022.05 - 2022.09| JavaScript Deep Study | |
+|2022.10 - 2022.11 AWS Study | |
 |2022.06 - ing~ | Startup Clup Mondays representative | |
 |2022.08 - ing~| prepare for the U.S.A. internship(K-MOVE) | |
-|2021.09 - ing~| Alogorithm Study| |
 |2021.09 - ing~| GDSC | |
-|2022.10 - ing~| AWS Study | |
 
 </div>
 </details>
