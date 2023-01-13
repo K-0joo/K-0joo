@@ -30,7 +30,7 @@
 |2021.09 - 2022.06 | Startup Clup Mondays member | |
 |2022.05 - 2022.09| JavaScript Deep Study | |
 |2022.08| Got certificate about 2022 Student promising start-up team 300 competition in growth track | |
-|2022.10 - 2022.11 AWS Study | |
+|2022.10 - 2022.11| AWS Study | |
 |2023.01| Got accepted to Microsoft Word Expert(Office 2016) and Microsoft PowerPoint(Office 2016) | |
 |2022.06 - ing~ | Startup Clup Mondays representative | |
 |2022.08 - ing~| prepare for the U.S.A. internship(K-MOVE) | |
