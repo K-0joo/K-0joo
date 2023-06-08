@@ -126,7 +126,7 @@
  > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 28개의 Public Repository를 만들었어요. 
+> 📜 27개의 Public Repository를 만들었어요. 
  > 
 > 🔑 1개의 Private Repository를 만들었어요. 
  > 
@@ -179,7 +179,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2023 18:33:48 UTC
+ Last Updated on 08/06/2023 18:32:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
