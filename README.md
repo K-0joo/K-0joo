@@ -122,13 +122,13 @@
 
 > 📦 GitHub의 69.9 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 184 만큼의 Contributions을 2023년에 했어요
+> 🏆 179 만큼의 Contributions을 2023년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 28개의 Public Repository를 만들었어요. 
+> 📜 21개의 Public Repository를 만들었어요. 
  > 
-> 🔑 1개의 Private Repository를 만들었어요. 
+> 🔑 8개의 Private Repository를 만들었어요. 
  > 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -157,13 +157,15 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Java                     19 mins             █████████████░░░░░░░░░░░░   50.55 % 
+HTML                     13 mins             █████████░░░░░░░░░░░░░░░░   35.64 % 
+Groovy                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ                 38 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -179,7 +181,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2023 18:33:49 UTC
+ Last Updated on 01/08/2023 18:33:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
