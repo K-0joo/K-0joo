@@ -35,6 +35,8 @@
 |2022.06 - 2023.01| Startup Clup Mondays representative | |
 |2022.08 - 2023.01| prepare for the U.S.A. internship(K-MOVE) - Stop  | |
 |2021.09 - 2023.02| GDSC | |
+|2023.02 - 2023.07| Multi Campus Backend Course Java 10th | |
+|2023.05| Got an excellence award for K-Digital Training Hackathon 4th | |
 
 </div>
 </details>
@@ -56,7 +58,6 @@
 
 
 ### 📚 Studying
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 </br></br>
 
@@ -71,6 +72,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </br></br>
 
 ### 🛠 Tool
