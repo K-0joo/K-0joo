@@ -128,9 +128,9 @@
  > 
 > 💼 구직중이에요.
  > 
-> 📜 23개의 Public Repository를 만들었어요. 
+> 📜 19개의 Public Repository를 만들었어요. 
  > 
-> 🔑 8개의 Private Repository를 만들었어요. 
+> 🔑 12개의 Private Repository를 만들었어요. 
  > 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -159,13 +159,15 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Java                     7 mins              ████████████░░░░░░░░░░░░░   48.43 % 
+XML                      7 mins              ████████████░░░░░░░░░░░░░   48.42 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ                 15 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -181,7 +183,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2023 18:34:42 UTC
+ Last Updated on 10/10/2023 18:34:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
